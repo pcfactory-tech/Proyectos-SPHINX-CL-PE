@@ -1,3 +1,12 @@
+---
+name: "📝 Historia de Usuario"
+about: Plantilla estándar para nuevas funcionalidades del Product Backlog.
+title: "HDU: [Título breve]"
+labels: "HDU, backlog"
+assignees: ""
+
+---
+
 ### 1. 👤 Definición HDU
 #### **YO COMO USUARIO de** [rol del usuario]
 #### **QUIERO** [acción/funcionalidad]
