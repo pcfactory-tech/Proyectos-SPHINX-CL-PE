@@ -14,56 +14,20 @@ assignees: ""
 
 ---
 
-### 2. 📌 Campos
-**Gerencia**
-<!-- Selecciona el área afectada -->
-- [ ] Finanzas
-- [ ] E-Commerce
-- [ ] SAC
-- [ ] Supplay Chain
-- [ ] Logística
-- [ ] Comercial
-- [ ] Operaciones Tiendas
-- [ ] TI
-
-**Clasificación**
-<!-- Selecciona el área afectada -->
-- [ ] Iniciativa
-- [ ] Mejorar
-- [ ] Incidente
-
-**Urgencia** 
-<!-- Selecciona el área afectada -->
-- [ ] SI
-- [ ] NO
-
-**SPRINT** [NRO SPRINT]
-
-**PUNTOS** [Puntos hdu]
-
-**Nivel de criticidad** 
-<!-- Selecciona una -->
-- [ ] 🔴 Critica
-- [ ] 🟠 Alto
-- [ ] 🟡 Medio
-- [ ] 🟢 Bajo
+### 2. 🛠️ Consideraciones técnicas
 
 ---
 
-### 3. 🛠️ Consideraciones técnicas
+### 3. 📊 Valor del Negocio Definido
 
 ---
 
-### 4. 📊 Valor del Negocio Definido
+### 4. ✅ Impacto y ❌ Riesgos
 
 ---
 
-### 5. ✅ Impacto y ❌ Riesgos
+### 5. 📸 Plan de pruebas
 
 ---
 
-### 6. 📸 Plan de pruebas
-
----
-
-### 7. 📋 Criterios de Aceptación
+### 6. 📋 Criterios de Aceptación
