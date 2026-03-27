@@ -10,6 +10,12 @@ on:
   workflow_dispatch:       # Permite ejecución manual desde GitHub Actions
 
 jobs:
+  move-incomplete-issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Log execution
+        run: echo "Ejecutando rollover manual: ${{ github.event.inputs.reason }}"
+        
   sprint-rollover:
     runs-on: ubuntu-latest
     steps:
